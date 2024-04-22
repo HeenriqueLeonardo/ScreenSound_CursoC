@@ -1,0 +1,14 @@
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\Ex 002\bin\Debug\net8.0\Ex 002.exe
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\Ex 002\bin\Debug\net8.0\Ex 002.deps.json
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\Ex 002\bin\Debug\net8.0\Ex 002.runtimeconfig.json
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\Ex 002\bin\Debug\net8.0\Ex 002.dll
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\Ex 002\bin\Debug\net8.0\Ex 002.pdb
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\Ex 002\obj\Debug\net8.0\Ex 002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\Ex 002\obj\Debug\net8.0\Ex 002.AssemblyInfoInputs.cache
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\Ex 002\obj\Debug\net8.0\Ex 002.AssemblyInfo.cs
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\Ex 002\obj\Debug\net8.0\Ex 002.csproj.CoreCompileInputs.cache
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\Ex 002\obj\Debug\net8.0\Ex 002.dll
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\Ex 002\obj\Debug\net8.0\refint\Ex 002.dll
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\Ex 002\obj\Debug\net8.0\Ex 002.pdb
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\Ex 002\obj\Debug\net8.0\Ex 002.genruntimeconfig.cache
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\Ex 002\obj\Debug\net8.0\ref\Ex 002.dll

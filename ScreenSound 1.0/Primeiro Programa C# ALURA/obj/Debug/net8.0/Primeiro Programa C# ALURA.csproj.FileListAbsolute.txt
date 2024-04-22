@@ -1,0 +1,14 @@
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Primeiro Programa C# ALURA\bin\Debug\net8.0\Primeiro Programa C# ALURA.exe
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Primeiro Programa C# ALURA\bin\Debug\net8.0\Primeiro Programa C# ALURA.deps.json
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Primeiro Programa C# ALURA\bin\Debug\net8.0\Primeiro Programa C# ALURA.runtimeconfig.json
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Primeiro Programa C# ALURA\bin\Debug\net8.0\Primeiro Programa C# ALURA.dll
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Primeiro Programa C# ALURA\bin\Debug\net8.0\Primeiro Programa C# ALURA.pdb
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Primeiro Programa C# ALURA\obj\Debug\net8.0\Primeiro Programa C# ALURA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Primeiro Programa C# ALURA\obj\Debug\net8.0\Primeiro Programa C# ALURA.AssemblyInfoInputs.cache
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Primeiro Programa C# ALURA\obj\Debug\net8.0\Primeiro Programa C# ALURA.AssemblyInfo.cs
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Primeiro Programa C# ALURA\obj\Debug\net8.0\Primeiro Programa C# ALURA.csproj.CoreCompileInputs.cache
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Primeiro Programa C# ALURA\obj\Debug\net8.0\Primeiro Programa C# ALURA.dll
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Primeiro Programa C# ALURA\obj\Debug\net8.0\refint\Primeiro Programa C# ALURA.dll
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Primeiro Programa C# ALURA\obj\Debug\net8.0\Primeiro Programa C# ALURA.pdb
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Primeiro Programa C# ALURA\obj\Debug\net8.0\Primeiro Programa C# ALURA.genruntimeconfig.cache
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Primeiro Programa C# ALURA\obj\Debug\net8.0\ref\Primeiro Programa C# ALURA.dll

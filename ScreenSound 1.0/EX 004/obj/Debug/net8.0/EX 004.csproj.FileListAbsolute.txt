@@ -1,0 +1,14 @@
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\EX 004\bin\Debug\net8.0\EX 004.exe
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\EX 004\bin\Debug\net8.0\EX 004.deps.json
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\EX 004\bin\Debug\net8.0\EX 004.runtimeconfig.json
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\EX 004\bin\Debug\net8.0\EX 004.dll
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\EX 004\bin\Debug\net8.0\EX 004.pdb
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\EX 004\obj\Debug\net8.0\EX 004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\EX 004\obj\Debug\net8.0\EX 004.AssemblyInfoInputs.cache
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\EX 004\obj\Debug\net8.0\EX 004.AssemblyInfo.cs
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\EX 004\obj\Debug\net8.0\EX 004.csproj.CoreCompileInputs.cache
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\EX 004\obj\Debug\net8.0\EX 004.dll
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\EX 004\obj\Debug\net8.0\refint\EX 004.dll
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\EX 004\obj\Debug\net8.0\EX 004.pdb
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\EX 004\obj\Debug\net8.0\EX 004.genruntimeconfig.cache
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\EX 004\obj\Debug\net8.0\ref\EX 004.dll

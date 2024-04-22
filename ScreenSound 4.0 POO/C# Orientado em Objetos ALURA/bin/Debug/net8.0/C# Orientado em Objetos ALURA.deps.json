@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C# Orientado em Objetos ALURA/1.0.0": {
+        "runtime": {
+          "C# Orientado em Objetos ALURA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C# Orientado em Objetos ALURA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

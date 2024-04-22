@@ -1,0 +1,14 @@
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Testes e Atividades\bin\Debug\net8.0\Testes e Atividades.exe
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Testes e Atividades\bin\Debug\net8.0\Testes e Atividades.deps.json
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Testes e Atividades\bin\Debug\net8.0\Testes e Atividades.runtimeconfig.json
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Testes e Atividades\bin\Debug\net8.0\Testes e Atividades.dll
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Testes e Atividades\bin\Debug\net8.0\Testes e Atividades.pdb
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Testes e Atividades\obj\Debug\net8.0\Testes e Atividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Testes e Atividades\obj\Debug\net8.0\Testes e Atividades.AssemblyInfoInputs.cache
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Testes e Atividades\obj\Debug\net8.0\Testes e Atividades.AssemblyInfo.cs
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Testes e Atividades\obj\Debug\net8.0\Testes e Atividades.csproj.CoreCompileInputs.cache
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Testes e Atividades\obj\Debug\net8.0\Testes e Atividades.dll
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Testes e Atividades\obj\Debug\net8.0\refint\Testes e Atividades.dll
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Testes e Atividades\obj\Debug\net8.0\Testes e Atividades.pdb
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Testes e Atividades\obj\Debug\net8.0\Testes e Atividades.genruntimeconfig.cache
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\Primeiro Programa C# ALURA\Testes e Atividades\obj\Debug\net8.0\ref\Testes e Atividades.dll

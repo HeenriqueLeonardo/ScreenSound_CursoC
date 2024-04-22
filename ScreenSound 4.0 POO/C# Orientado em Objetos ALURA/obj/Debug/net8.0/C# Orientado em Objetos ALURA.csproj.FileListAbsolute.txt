@@ -1,0 +1,14 @@
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\C# Orientado em Objetos ALURA\bin\Debug\net8.0\C# Orientado em Objetos ALURA.exe
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\C# Orientado em Objetos ALURA\bin\Debug\net8.0\C# Orientado em Objetos ALURA.deps.json
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\C# Orientado em Objetos ALURA\bin\Debug\net8.0\C# Orientado em Objetos ALURA.runtimeconfig.json
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\C# Orientado em Objetos ALURA\bin\Debug\net8.0\C# Orientado em Objetos ALURA.dll
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\C# Orientado em Objetos ALURA\bin\Debug\net8.0\C# Orientado em Objetos ALURA.pdb
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\C# Orientado em Objetos ALURA\obj\Debug\net8.0\C# Orientado em Objetos ALURA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\C# Orientado em Objetos ALURA\obj\Debug\net8.0\C# Orientado em Objetos ALURA.AssemblyInfoInputs.cache
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\C# Orientado em Objetos ALURA\obj\Debug\net8.0\C# Orientado em Objetos ALURA.AssemblyInfo.cs
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\C# Orientado em Objetos ALURA\obj\Debug\net8.0\C# Orientado em Objetos ALURA.csproj.CoreCompileInputs.cache
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\C# Orientado em Objetos ALURA\obj\Debug\net8.0\C# Orientado em Objetos ALURA.dll
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\C# Orientado em Objetos ALURA\obj\Debug\net8.0\refint\C# Orientado em Objetos ALURA.dll
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\C# Orientado em Objetos ALURA\obj\Debug\net8.0\C# Orientado em Objetos ALURA.pdb
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\C# Orientado em Objetos ALURA\obj\Debug\net8.0\C# Orientado em Objetos ALURA.genruntimeconfig.cache
+C:\Users\Windows-10Pro\Desktop\Estudos de C#\C# Orientado em Objetos ALURA\C# Orientado em Objetos ALURA\obj\Debug\net8.0\ref\C# Orientado em Objetos ALURA.dll
